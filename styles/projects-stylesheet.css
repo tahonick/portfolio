@@ -112,7 +112,7 @@ header
 .movie 
 {
     max-width:1000px;
-    align-content: center;
+    display: inline;
 }
 
 .row
@@ -133,6 +133,7 @@ header
     align-content: center;
     flex: 50%;
     padding: 0 4px;
+    margin-top: 20px;
 }
 
 .column img {
