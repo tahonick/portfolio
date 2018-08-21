@@ -1,22 +1,18 @@
-* 
-{
+*  {
     margin: 0;
     padding: 0;
 }
 
-body
-{
+body {
     font-family: sans-serif;
 }
 
-.button
-{
+.button {
     margin-top: 30px;
     margin-left: 440px; 
 }
 
-.btn
-{
+.btn {
     padding: 10px 30px;
     margin-right: 5px;
     color: white;
@@ -25,30 +21,25 @@ body
     text-transform: uppercase;
 }
 
-.btn-one
-{
+.btn-one {
     border: 1px solid white;
 }
 
-.btn-one:hover
-{
+.btn-one:hover {
     background-color: dimgray;
     transition: all 0.1s ease-in;
 }
 
-.btn-two:hover
-{
+.btn-two:hover {
     background-color: dimgray;
     transition: all 0.1s ease-in;
 }
 
-contact-form
-{
+contact-form {
     
 }
 
-h1
-{
+h1 {
     color: white;
     font-size: 40px;
     font-weight: 125;
@@ -56,24 +47,21 @@ h1
     margin-top: 170px;
 }
 
-header
-{
+header {
     background-image: linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0.7)),url(../images/pic1.jpg);
     height: 100vh;
     background-size: cover;
     background-position: center;
 }
 
-.hero
-{
+.hero {
     position: absolute;
     width: 1200px;
     margin-top: 0;
     margin-left: 0;
 }
 
-.logo img
-{
+.logo img {
     width: 70px;
     height: auto;
     float: left;
@@ -81,20 +69,17 @@ header
     opacity: .8;
 }
 
-.main-nav
-{
+.main-nav {
     float:right;
     list-style: none;
     margin-top: 30px;
 }
 
-.main-nav li
-{
+.main-nav li {
     display: inline;
 }
 
-.main-nav li a
-{
+.main-nav li a {
     color: white;
     text-decoration: none;
     padding: 5px 20px;
@@ -102,19 +87,16 @@ header
     font-size: 15px;
 }
 
-.main-nav li a:hover
-{
+.main-nav li a:hover {
     border: 1px solid white;
     transition: all 0.2s ease-in;
 }
 
-.main-nav li.active a
-{
+.main-nav li.active a {
     border: 1px solid white;
 }
 
-.row
-{
+.row {
     max-width: 1200px;
     margin: auto;
 }
